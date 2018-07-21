@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Anthony Kiedis",
+    "image": "./images/ak.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Arik Marshall",
+    "image": "./images/arikmarshall.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Chad Smith",
+    "image": "./images/chad.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Cliff Martinez",
+    "image": "./images/cliff.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "DeWayne McKnight",
+    "image": "./images/dewayne.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Flea",
+    "image": "./images/flea.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Jack Irons",
+    "image": "./images/jackirons.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Jesse Tobias",
+    "image": "./images/jesse.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "John Frusciante",
+    "image": "./images/jf.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Josh Klinghoffer",
+    "image": "./images/josh.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Dave Navarro",
+    "image": "./images/navarro.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Jack Sherman",
+    "image": "./images/sherman.jpg",
+    "clicked": false
+  }
+]

@@ -2,17 +2,14 @@ import React from 'react';
 import "./BandMember.css";
 
 const BandMember = props => (
-	<div 
-		className="cardStyle"
-		onClick={() => props.setClicked(props.id)}>
-	    <div className="imgContainer">
+	<div className="card">
+	    <div className="imageContainer">
 	      <img
 	        alt={props.name}
 	        src={props.image}
+					id={props.id}
+					onClick={() => props.shuffleScore(props.id)} className='shuffleScore'
 	      />
-	    </div>
-	    <div className="content">	
-	    	{props.name}
 	    </div>
   </div>
 );
